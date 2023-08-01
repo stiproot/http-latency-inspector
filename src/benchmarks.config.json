@@ -1,0 +1,18 @@
+{
+	"iterations": [
+		{
+			"alias": "",
+			"baseUrl": "",
+			"baseRoute": "",
+			"routeParams": [],
+			"queryParams": [
+				{
+					"key": "",
+					"value": ""
+				}
+			],
+			"count": 1000,
+			"verb": "GET"
+		}
+	]
+}
